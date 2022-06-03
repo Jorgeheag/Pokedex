@@ -1,0 +1,150 @@
+.conten-into{
+  display: flex;
+  justify-content: center;
+}
+
+#btn-search{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width: 131px;
+  height: 33px;
+  background: rgb(255, 30, 30);
+  border-radius: 6px;
+}
+
+
+.Into {
+  width: 194px;
+  padding: 3px;
+  margin: 23px;
+  background-color: rgb(62, 101, 216);
+  color: rgb(53, 228, 225);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  
+
+}
+
+.Into img {
+  display: block;
+  margin: 0px auto;
+  max-width: 60%;
+  max-height: 60%;
+  
+}
+
+#into-imput{
+  border-color: red;
+  height: 24px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: medium;
+  color: black;
+}
+
+.Into button {
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 34px;
+  background-color: red;
+  box-shadow: 0px 0px 10px red;
+  border-color: red;
+}
+
+
+.poke-content{
+  background-color: rgb(73, 172, 172);
+  justify-content: flex-end;
+}
+
+.poke-content img{
+  max-width: 60%;
+  max-height: 60%;
+  justify-content: center;
+}
+
+#imgP{
+  display: flex;
+  justify-content: center;
+}
+
+#welcome{
+  font-size:xx-large;
+  font: bold 200% monospace;
+}
+
+#select{
+  font: bold 90% monospace;
+  background-color: azure;
+  color: rgb(108, 31, 31);
+}
+
+.pokemons img{
+  max-width: 15%;
+  max-height: 15%;
+
+}
+
+.const-list{
+  display: flex;
+  flex-wrap: wrap;
+  height: fit-content;
+}
+
+.card{
+  background-color:rgb(16, 163, 134);
+  margin: 2rem;
+  width: 250px;
+  border-radius: 20px 20px 200px 200px;
+  text-align: center;
+  display: flexbox;
+}
+
+.card-pokemon{
+ display: flex;
+ justify-content: center;
+ text-align: center;
+}
+
+#name-poke{
+  text-align: center;
+  font: bold 200% monospace;
+}
+
+.title1{
+  display: flex;
+  justify-content: center;
+}
+
+#title{
+  margin-top: -7vh;
+  max-width: 60vh;
+  max-height: 60vh;
+
+}
+
+#ash{
+  max-width: 28vh;
+  max-height: 39vh;
+}
+
+.card-pokemon img{
+  margin-top: -7vh;
+  max-width: 28vh;
+  max-height: 39vh;
+}
+
+.list-cont {
+  width: 25vh;
+  font: bold 90% monospace;
+  background-color: aqua;
+  justify-items: center;
+}
+
+#btn-rest{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width: 131px;
+  height: 33px;
+  background: dodgerblue;
+  border-radius: 6px;
+}
